@@ -57,7 +57,7 @@ cacheSolve <- function(x, ...) {
 
 #value has been calculated in first run
 # >cacheSolve(met)
-[,1]       [,2]
+#        [,1]       [,2]
 #[1,] -0.05555556  0.2222222
 #[2,]  0.27777778 -0.1111111
 
@@ -73,4 +73,8 @@ cacheSolve <- function(x, ...) {
 #       [,1]       [,2]
 #[1,] -0.05555556  0.2222222
 #[2,]  0.27777778 -0.1111111
+
+
+
+
 
